@@ -12,6 +12,6 @@ deploy:
   api_key: $HEROKU_API_KEY
   app: hadjibaev
   on:
-    repo: HADJIBAEV/hadjibaev
+    repo: HADJIBAEV/Portfolio2021
     branch: master
     strategy: git
